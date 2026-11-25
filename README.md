@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">TernuxPJ • Muvixo</h1>
+  <h1 align="center">Hi, I'm Muvixo 👋</h1>
   <p align="center">
     <strong>Full-Stack • Systems • Edge & Cross-Platform Developer</strong>
     <br />
-    Creator & Builder behind <strong>Muvixo</strong> — crafting fast, offline-first software across desktop, mobile, and edge cloud.
+    Building fast, offline-first software across desktop, mobile, and edge cloud.
   </p>
 </p>
 
@@ -14,14 +14,14 @@
   <a href="https://github.com/TernuxPJ">
     <img src="https://img.shields.io/badge/GitHub-TernuxPJ-0f172a?style=for-the-badge&logo=github&logoColor=f8fafc" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/Brand-Muvixo-1e3a8a?style=for-the-badge" alt="Muvixo" />
+  <img src="https://img.shields.io/badge/Muvixo-Software%20Engineer-1e3a8a?style=for-the-badge" alt="Muvixo" />
 </p>
 
 ---
 
-### About Muvixo
+### About Me
 
-**Muvixo** is my independent software studio and ecosystem focused on building sleek, high-performance, and self-contained applications without bloat. Every Muvixo project is engineered around four core principles:
+I'm **Muvixo** (`@TernuxPJ`) — an independent developer focused on building sleek, high-performance, and self-contained applications without bloat. Everything I build is centered around four core principles:
 
 - **Speed & Edge Performance:** Powered by lightweight native runtimes (**Flutter**, **Rust**, **Python**) and zero-cold-start backends on **Cloudflare Workers & D1**.
 - **Offline-First & Zero Bloat:** Bundled local assets, clean minimal monochrome/obsidian interfaces, and zero unnecessary third-party trackers.
@@ -115,7 +115,7 @@
 
 ### Core Focus
 
-| Area | What Muvixo Builds |
+| Area | What I Build |
 | :--- | :--- |
 | **Desktop & Mobile** | Native-feeling Flutter + Rust apps packaged via automated GitHub Releases |
 | **Edge Backend** | Zero-cold-start APIs, relays, and D1 databases on Cloudflare Workers |
